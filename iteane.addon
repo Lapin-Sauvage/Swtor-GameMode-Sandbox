@@ -1,0 +1,22 @@
+{
+    "name": "Swtor GameMode",
+    "version": "0.1",
+    "sharedassets": "*.*",
+    
+    "depends": 
+    [
+        "base",
+        "citizen" // Optional if you already have a model and animations, etc.
+    ],
+
+    
+    "gamemodes":
+    [
+        {
+            
+            "name": "Swtor GameMode",
+            "title": "Swtor GameMode",
+            "description": "This is the swtor gamemode developed by French people, this gamemode is developed in C # and is free !!"
+        }
+    ]
+}
